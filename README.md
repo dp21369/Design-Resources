@@ -24,6 +24,11 @@ A curated list of free and public domain resources for web designers, including 
 - **[The League of Moveable Type](https://www.theleagueofmoveabletype.com/)**: Free and open-source fonts for professional use.
 - **[Open Foundry](https://open-foundry.com/)**: Curated collection of free and open-source typefaces.
 - **[Velvetyne](https://velvetyne.fr/)**: Open-source type foundry providing free fonts.
+- **[Lost Type](https://www.losttype.com/)**: Pay-what-you-want typefaces, free for personal use.
+- **[Fonts Arena](https://fontsarena.com/)**: Free curated collection of high-quality fonts.
+- **[Befonts](https://befonts.com/)**: A huge collection of free fonts for designers.
+- **[Use & Modify](https://usemodify.com/)**: Open-source fonts, free for both commercial and personal use.
+- **[Fontesk](https://fontesk.com/)**: Free fonts with commercial licenses.
 
 ## Images
 - **[Unsplash](https://unsplash.com/)**: Free, high-resolution photos with a generous license for commercial use.
@@ -33,6 +38,13 @@ A curated list of free and public domain resources for web designers, including 
 - **[Burst](https://burst.shopify.com/)**: Free stock photos for business and personal use by Shopify.
 - **[Reshot](https://www.reshot.com/)**: Handpicked free photos for commercial and editorial use.
 - **[Kaboompics](https://kaboompics.com/)**: High-quality free photos for personal and commercial projects.
+- **[ISO Republic](https://isorepublic.com/)**: High-quality photos for personal and commercial use.
+- **[Picography](https://picography.co/)**: Gorgeous free photos for personal and commercial projects.
+- **[Gratisography](https://gratisography.com/)**: Free high-resolution quirky and fun images.
+- **[Foodiesfeed](https://www.foodiesfeed.com/)**: Free food images for commercial use.
+- **[Picjumbo](https://picjumbo.com/)**: Free stock photos for any type of commercial use.
+- **[Jay Mantri](https://jaymantri.com/)**: Free-spirited photos released under CC0.
+- **[Life of Pix](https://www.lifeofpix.com/)**: Free high-resolution photos gifted by photographers.
 
 ## Illustrations
 - **[Undraw](https://undraw.co/)**: Open-source illustrations for any idea you can imagine and create.
@@ -42,6 +54,11 @@ A curated list of free and public domain resources for web designers, including 
 - **[Illustrations.co](https://illlustrations.co/)**: Open-source illustrations for any idea you have.
 - **[IRA Design](https://iradesign.io/)**: Create custom illustrations using hand-drawn elements.
 - **[Freepik Illustrations](https://www.freepik.com/free-illustrations)**: Collection of illustrations for free use (check licenses).
+- **[Blush](https://blush.design/)**: Illustrations to mix and customize.
+- **[Lukasz Adam](https://lukaszadam.com/)**: Free illustrations and icons.
+- **[Iconscout Illustrations](https://iconscout.com/illustrations)**: Beautiful illustrations with an open license.
+- **[Ouch! by Icons8](https://icons8.com/ouch)**: Free vector illustrations for any project.
+- **[Absurd Design](https://absurd.design/)**: Hand-drawn, surreal illustrations.
 
 ## Vectors
 - **[VectorStock](https://www.vectorstock.com/)**: Free vectors for creative projects.
@@ -49,6 +66,11 @@ A curated list of free and public domain resources for web designers, including 
 - **[SVGRepo](https://www.svgrepo.com/)**: Explore thousands of free vector icons and illustrations.
 - **[Vector4Free](https://vector4free.com/)**: Free vector art, backgrounds, icons, and more.
 - **[Public Domain Vectors](https://publicdomainvectors.org/)**: Download vectors for commercial use.
+- **[Flaticon](https://www.flaticon.com/)**: Vector icons in various styles, available for free.
+- **[FreeVector](https://www.freevector.com/)**: Free vector images for personal and commercial use.
+- **[Vector.me](https://vector.me/)**: Huge library of free vector graphics.
+- **[ManyPixels](https://www.manypixels.co/gallery)**: Royalty-free vector illustrations.
+- **[Vector Portal](https://www.vectorportal.com/)**: Free vectors and clipart for commercial use.
 
 ## Icons
 - **[FontAwesome](https://fontawesome.com/)**: Icon toolkit for websites and apps.
@@ -58,6 +80,11 @@ A curated list of free and public domain resources for web designers, including 
 - **[Material Icons](https://material.io/resources/icons/)**: Google’s open-source icon set.
 - **[Streamline Icons](https://streamlineicons.com/)**: Free icons for UI design.
 - **[Bootstrap Icons](https://icons.getbootstrap.com/)**: Free, open-source icon library for Bootstrap.
+- **[Iconmonstr](https://iconmonstr.com/)**: Simple, high-quality icons.
+- **[Icons8](https://icons8.com/)**: Free icons in various styles for all platforms.
+- **[The Noun Project](https://thenounproject.com/)**: Free icons for everything (some require attribution).
+- **[Boxicons](https://boxicons.com/)**: Beautiful customizable icons.
+- **[Remix Icon](https://remixicon.com/)**: Open-source icon library.
 
 ## Color Palettes
 - **[Coolors](https://coolors.co/)**: The easiest way to create color schemes.
@@ -65,27 +92,17 @@ A curated list of free and public domain resources for web designers, including 
 - **[Adobe Color](https://color.adobe.com/create)**: Create color palettes, gradients, and more.
 - **[ColorSpace](https://mycolor.space/)**: Generate beautiful color palettes.
 - **[Paletton](https://paletton.com/)**: Advanced color scheme generator.
+- **[Material Palette](https://www.materialpalette.com/)**: Create and share your own material design color palettes.
+- **[ColorMind](http://colormind.io/)**: AI-powered color palette generator.
 
 ## Mockups
 - **[Mockup World](https://www.mockupworld.co/)**: The biggest source of free mockups.
 - **[Placeit](https://placeit.net/)**: Free product mockups.
 - **[Smartmockups](https://smartmockups.com/)**: Create stunning mockups easily.
 - **[Shotsnapp](https://shotsnapp.com/)**: Free mockup generator for mobile devices.
-
-## Design Inspiration
-- **[Dribbble](https://dribbble.com/)**: Showcasing creative work.
-- **[Behance](https://www.behance.net/)**: A platform to showcase and discover creative work.
-- **[Awwwards](https://www.awwwards.com/)**: Website awards recognizing the best in web design.
-- **[Land-book](https://land-book.com/)**: A curated collection of landing page designs.
-- **[Site Inspire](https://www.siteinspire.com/)**: Web design inspiration from various industries.
-  
-## Other Tools
-- **[Figma](https://www.figma.com/)**: Free UI/UX design tool for creating and collaborating.
-- **[GIMP](https://www.gimp.org/)**: Free, open-source image editor.
-- **[Photopea](https://www.photopea.com/)**: Online Photoshop alternative.
-- **[SVGOMG](https://jakearchibald.github.io/svgomg/)**: Online SVG optimization tool.
-- **[Remove.bg](https://www.remove.bg/)**: Remove image backgrounds instantly.
-- **[Canva](https://www.canva.com/)**: Free design tool for social graphics and more.
+- **[Graphic Burger](https://graphicburger.com/)**: Free, high-quality design resources.
+- **[Mockups Design](https://mockups-design.com/)**: A variety of free mockup resources.
+- **[Pixeden](https://www.pixeden.com/)**: Free mockups and design resources.
 
 ---
 
