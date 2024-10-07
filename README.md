@@ -136,7 +136,7 @@ A curated list of free and public domain resources for web designers, including 
 18. **[Icon Archive](http://www.iconarchive.com/)** - A repository of free and commercial icons for projects.
 19. **[Eva Icons](https://akveo.github.io/eva-icons/)** - A pack of beautifully crafted open-source icons.
 20. **[Zondicons](http://www.zondicons.com/)** - Free and beautiful outline icons for web projects.
-21. **[3D Iocns](https://3dicons.co/)** - Beautifully crafted open source 3D icons100% FREE FOR Commercial and Personal Use UNDER CC0 (NEW**)
+21. **[3D Iocns](https://3dicons.co/)** - Beautifully crafted open source 3D icons. 100% FREE FOR Commercial and Personal Use UNDER CC0 (NEW**)
 
 ---
 
