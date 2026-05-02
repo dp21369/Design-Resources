@@ -37,6 +37,7 @@ A curated list of free and public domain resources for web designers, including 
 17. **[Font Space](https://www.fontspace.com/)** - Free fonts for personal and commercial use.
 18. **[Fontfabric](https://www.fontfabric.com/free-fonts/)** - High-quality, carefully crafted free fonts.
 19. **[FreeTypography](https://freetypography.com/)** - Curated free fonts for designers.
+20. **[FontsWiki](https://fontswiki.com/)** - Searchable font catalog with free alternatives, pairings, and real-world fonts-in-use references.
 20. **[Our Fonts](https://ourfonts.eu/)** - Free fonts created by the European design community.
 
 ---
